@@ -1,20 +1,4 @@
-/**
- * style.css
- * Folha de estilos global do aplicativo.
- * 
- * Observe que cada página também pode ter sua própria folha de estilos, para
- * isso, crie, na pasta '/css' um arquivo com o mesmo nome da página, porém, 
- * com a extensão 'css'. Por exemplo:
- *
- *      Link da página → '/?p=contatos' ou '/index.php?p=contatos'
- *      Caminho real da página → '/page/contatos.php'
- *      Folha de estilos da página → '/css/contatos.css'
- *
- * Note que, caso o arquivo '/css/contatos.css' exista, ele será 'linkado'
- * automaticamente pelo script, desde que tenha o mesmo nome da página.
- * Se ele não existir, ao carregar '/?p=contatos', NÃO teremos erro.
- *
- **/
+
 
 * {
     box-sizing: border-box;

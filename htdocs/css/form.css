@@ -1,17 +1,11 @@
-/**
- * form.css
- * Folha de estilos do formulário do usuário.
- *
- * Este formulário é incluído em várias páginas do aplicativo ,e quando isso 
- * ocorrer, este arquivo deve ser importado pela folha de estilos da página. 
- * Leia os comentários de '/css/style.css' para saber mais.
- **/
+
 
 .user-form {
     display: block;
     width: 100%;
     margin: auto;
     max-width: 640px;
+   
     
 }
 
@@ -61,7 +55,7 @@
 .password {
     display: flex;
     align-items: center;
-    /* justify-content: space-between; */
+ 
 }
 
 .password input {
